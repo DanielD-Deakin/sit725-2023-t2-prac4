@@ -3,20 +3,20 @@
     "express": "^4.18.2",
     "materialize-css": "^1.0.0"
   },
-  "name": "sit725-2023-t2-prac3",
+  "name": "sit725-2023-t2-prac4",
   "version": "1.0.0",
-  "description": "web service that allows to add two numbers on the server",
+  "description": "Week 4 Practical",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielD-Deakin/sit725-2023-t2-prac3.git"
+    "url": "git+https://github.com/DanielD-Deakin/sit725-2023-t2-prac4.git"
   },
   "author": "Daniel Dobreski",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DanielD-Deakin/sit725-2023-t2-prac3/issues"
+    "url": "https://github.com/DanielD-Deakin/sit725-2023-t2-prac4/issues"
   }
 }
