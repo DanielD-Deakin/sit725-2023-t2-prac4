@@ -74,3 +74,4 @@ function postScenery(scenery, callback) {
 function getAllScenery(scenery, callback) {
     collection.find({}).toArray(scenery, callback);
 }
+
